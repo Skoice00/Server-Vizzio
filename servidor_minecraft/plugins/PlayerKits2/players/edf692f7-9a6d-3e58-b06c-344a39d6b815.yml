@@ -1,0 +1,10 @@
+name: BraiARG
+kits:
+  food:
+    cooldown: 1723177273839
+    one_time: false
+    bought: false
+  Starter:
+    cooldown: 1723177276132
+    one_time: true
+    bought: false

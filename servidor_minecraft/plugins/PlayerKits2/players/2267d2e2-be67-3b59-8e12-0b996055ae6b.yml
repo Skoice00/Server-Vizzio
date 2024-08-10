@@ -1,0 +1,10 @@
+name: iPedro_gg
+kits:
+  food:
+    cooldown: 1723178967837
+    one_time: false
+    bought: false
+  Starter:
+    cooldown: 1723178973894
+    one_time: true
+    bought: false

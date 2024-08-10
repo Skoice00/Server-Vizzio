@@ -1,0 +1,10 @@
+name: B5U3
+kits:
+  Starter:
+    cooldown: 1723169819313
+    one_time: true
+    bought: false
+  food:
+    cooldown: 1723169842800
+    one_time: false
+    bought: false

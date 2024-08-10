@@ -1,0 +1,11 @@
+storageType: YAML
+teamNameLookup:
+- utopia:823df6b9-3c70-4573-816c-df5339cd48c2
+- nazis:3ba83329-61be-4a4d-adda-860fdac3a695
+- nvidia:2e34b4e4-a729-4640-b492-54fdd048289f
+playerLookup:
+- edf692f7-9a6d-3e58-b06c-344a39d6b815:3ba83329-61be-4a4d-adda-860fdac3a695
+- 2828ddef-f9c4-383e-bd8f-e776ae272566:823df6b9-3c70-4573-816c-df5339cd48c2
+- 07d98d6c-e818-3a96-8d8e-4c47a714083e:823df6b9-3c70-4573-816c-df5339cd48c2
+- 623d36c9-eb07-3cd1-a570-7c62f0e5d8db:2e34b4e4-a729-4640-b492-54fdd048289f
+chestClaims: []

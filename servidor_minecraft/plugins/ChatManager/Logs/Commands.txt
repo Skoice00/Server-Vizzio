@@ -1,0 +1,92 @@
+[Sat Aug 10 21:40:39 UTC 2024] PapichuloJoker: /papi ecloud download Vault
+[Sat Aug 10 21:40:42 UTC 2024] PapichuloJoker: /papi reload
+[Sat Aug 10 21:45:01 UTC 2024] PapichuloJoker: /cm reload
+[Sat Aug 10 21:46:21 UTC 2024] PapichuloJoker: /lp group twitch meta setprefix "&#c00bd6&lT&#ba09de&lW&#b507e6&lI&#af04ed&lT&#aa02f5&lC&#a400fd&lH &r"
+[Sat Aug 10 21:46:26 UTC 2024] PapichuloJoker: /cm reload
+[Sat Aug 10 21:47:33 UTC 2024] PapichuloJoker: /lp group twitch meta setprefix %5%ITWICTH
+[Sat Aug 10 21:47:50 UTC 2024] PapichuloJoker: /give dilan_lc minecraft:rabbit_foot 20
+[Sat Aug 10 21:48:42 UTC 2024] ElMart: /tp dilan_lc
+[Sat Aug 10 21:48:47 UTC 2024] ElMart: /kill dilan_lc
+[Sat Aug 10 21:48:49 UTC 2024] dilan_lc: /back
+[Sat Aug 10 21:49:24 UTC 2024] PapichuloJoker: /lp group twitch meta setprefix &5&ITWITCH
+[Sat Aug 10 21:49:48 UTC 2024] PapichuloJoker: /lp group twitch meta setprefix &I&5TWITCH
+[Sat Aug 10 21:51:34 UTC 2024] PapichuloJoker: /lp group twitch meta setprefix &5&lTWITCH
+[Sat Aug 10 21:51:55 UTC 2024] PapichuloJoker: /tp dilan_lc
+[Sat Aug 10 21:52:47 UTC 2024] PapichuloJoker: /gamemode creative
+[Sat Aug 10 21:53:02 UTC 2024] PapichuloJoker: /gamemode survival
+[Sat Aug 10 21:55:15 UTC 2024] PapichuloJoker: /give PapichuloJoker minecraft:saddle
+[Sat Aug 10 21:55:58 UTC 2024] PapichuloJoker: /give PapichuloJoker minecraft:saddle
+[Sat Aug 10 21:57:37 UTC 2024] dilan_lc: /abck
+[Sat Aug 10 21:57:38 UTC 2024] dilan_lc: /back
+[Sat Aug 10 21:57:56 UTC 2024] dilan_lc: /back
+[Sat Aug 10 21:58:04 UTC 2024] dilan_lc: /tpa PapichuloJoker
+[Sat Aug 10 21:58:06 UTC 2024] ElMart: /tp dilan_lc ElMart
+[Sat Aug 10 21:58:09 UTC 2024] PapichuloJoker: /tp dilan_lc PapichuloJoker
+[Sat Aug 10 22:00:13 UTC 2024] ElMart: /tps
+[Sat Aug 10 22:02:07 UTC 2024] dilan_lc: /back
+[Sat Aug 10 22:02:39 UTC 2024] ElMart: /tps
+[Sat Aug 10 22:02:49 UTC 2024] dilan_lc: /back
+[Sat Aug 10 22:03:11 UTC 2024] dilan_lc: /back
+[Sat Aug 10 22:03:29 UTC 2024] dilan_lc: /tpa ElMart
+[Sat Aug 10 22:03:31 UTC 2024] ElMart: /tp dilan_lc ElMart
+[Sat Aug 10 22:05:12 UTC 2024] PapichuloJoker: /cm reload
+[Sat Aug 10 22:06:04 UTC 2024] PapichuloJoker: /back
+[Sat Aug 10 22:07:18 UTC 2024] ElMart: /tps
+[Sat Aug 10 22:09:50 UTC 2024] dilan_lc: /back
+[Sat Aug 10 22:10:04 UTC 2024] PapichuloJoker: /cm reload
+[Sat Aug 10 22:10:20 UTC 2024] ElMart: /reload
+[Sat Aug 10 22:11:19 UTC 2024] dilan_lc: /back
+[Sat Aug 10 22:12:08 UTC 2024] ElMart: /lp user ElMart parent set dios
+[Sat Aug 10 22:12:25 UTC 2024] dilan_lc: /back
+[Sat Aug 10 22:12:30 UTC 2024] ElMart: /lp user ElMart parent set twitch
+[Sat Aug 10 22:12:32 UTC 2024] dilan_lc: /back
+[Sat Aug 10 22:16:11 UTC 2024] ElMart: /tp PapichuloJoker
+[Sat Aug 10 22:17:16 UTC 2024] ElMart: /tp PapichuloJoker
+[Sat Aug 10 22:17:29 UTC 2024] ElMart: /tp PapichuloJoker ElMart
+[Sat Aug 10 22:18:33 UTC 2024] PapichuloJoker: /time set day
+[Sat Aug 10 22:18:33 UTC 2024] dilan_lc: /back
+[Sat Aug 10 22:18:43 UTC 2024] dilan_lc: /bacj
+[Sat Aug 10 22:18:45 UTC 2024] dilan_lc: /back
+[Sat Aug 10 22:19:11 UTC 2024] ElMart: /lp user ElMart parent remove twitch
+[Sat Aug 10 22:20:59 UTC 2024] dilan_lc: /back
+[Sat Aug 10 22:23:13 UTC 2024] dilan_lc: /tpahere PapichuloJoker
+[Sat Aug 10 22:23:18 UTC 2024] PapichuloJoker: /tpaccept
+[Sat Aug 10 22:23:39 UTC 2024] PapichuloJoker: /back
+[Sat Aug 10 22:25:06 UTC 2024] PapichuloJoker: /gamemode creative
+[Sat Aug 10 22:27:31 UTC 2024] PapichuloJoker: /cm reload
+[Sat Aug 10 22:27:43 UTC 2024] PapichuloJoker: /gamemode survival
+[Sat Aug 10 22:28:01 UTC 2024] ElMart: /deop PapichuloJoker
+[Sat Aug 10 22:28:42 UTC 2024] ElMart: /lp user PapichuloJoker parent remove twitch
+[Sat Aug 10 22:30:32 UTC 2024] ElMart: /op PapichuloJoker
+[Sat Aug 10 22:30:36 UTC 2024] PapichuloJoker: /gamemode creative
+[Sat Aug 10 22:31:01 UTC 2024] PapichuloJoker: /gamemode survival
+[Sat Aug 10 22:32:31 UTC 2024] ElMart: /kick dilan_lc
+[Sat Aug 10 22:32:37 UTC 2024] ElMart: /whitelist on
+[Sat Aug 10 22:32:45 UTC 2024] ElMart: /tp dilan_lc
+[Sat Aug 10 22:36:32 UTC 2024] dilan_lc: /back
+[Sat Aug 10 22:38:01 UTC 2024] ElMart: /stop
+[Sat Aug 10 22:51:38 UTC 2024] ElMart: /tp PapichuloJoker
+[Sat Aug 10 22:51:47 UTC 2024] PapichuloJoker: /lp creategroup VIZZIO
+[Sat Aug 10 22:52:42 UTC 2024] PapichuloJoker: /lp group vizzio meta setprefix "&#95f155&lV&#9ff452&lI&#aaf74f&lZ&#b4f94c&lZ&#bffc49&lI&#c9ff46&lO &r"
+[Sat Aug 10 22:54:00 UTC 2024] PapichuloJoker: /lp group vizzio meta setprefix "&#95f155&lV&#9cf353&lI&#a2f551&lZ&#a9f64f&lZ&#aff84e&lI&#b6fa4c&lO&#bcfc4a&lS&#c3fd48&lO&#c9ff46&lS &r"
+[Sat Aug 10 22:54:34 UTC 2024] PapichuloJoker: /nte group add VIZZIOSOS
+[Sat Aug 10 22:55:15 UTC 2024] PapichuloJoker: /nte group VIZZIOSOS permission nte.VIZZIOSOS
+[Sat Aug 10 22:56:25 UTC 2024] PapichuloJoker: /nte group TWITCH prefix
+[Sat Aug 10 22:57:09 UTC 2024] PapichuloJoker: /nte group VIZZIOSOS prefix %luckperms_prefix%
+[Sat Aug 10 22:57:50 UTC 2024] PapichuloJoker: /lp group vizzio permission set nte.VIZZIOSOS
+[Sat Aug 10 22:58:04 UTC 2024] PapichuloJoker: /lp user PapichuloJoker parent set vizzio
+[Sat Aug 10 22:59:22 UTC 2024] PapichuloJoker: /lp group vizzio meta setprefix &a&lVIZZIOSOS
+[Sat Aug 10 22:59:27 UTC 2024] PapichuloJoker: /hola
+[Sat Aug 10 23:02:55 UTC 2024] PapichuloJoker: /lp creategroup DIOS
+[Sat Aug 10 23:03:13 UTC 2024] PapichuloJoker: /nte group add DIOS
+[Sat Aug 10 23:03:38 UTC 2024] PapichuloJoker: /lp group dios meta setprefix &c&lDIOS
+[Sat Aug 10 23:04:13 UTC 2024] PapichuloJoker: /nte group DIOS prefix %luckperms_prefix%
+[Sat Aug 10 23:04:25 UTC 2024] PapichuloJoker: /nte group DIOS permission nte.DIOS
+[Sat Aug 10 23:05:08 UTC 2024] PapichuloJoker: /lp group dios permission set nte.DIOS
+[Sat Aug 10 23:05:18 UTC 2024] PapichuloJoker: /lp user ElMart parent set dios
+[Sat Aug 10 23:06:39 UTC 2024] ElMart: /deop PapichuloJoker
+[Sat Aug 10 23:07:16 UTC 2024] ElMart: /op PapichuloJoker
+[Sat Aug 10 23:07:52 UTC 2024] PapichuloJoker: /lp group vizzio meta setprefix "&a&lVIZZIOSOS &r"
+[Sat Aug 10 23:08:40 UTC 2024] PapichuloJoker: /lp group dios meta setprefix "&c&lDIOS &r"
+[Sat Aug 10 23:08:47 UTC 2024] PapichuloJoker: /lp reloadconfig
+[Sat Aug 10 23:08:51 UTC 2024] PapichuloJoker: /nte reload

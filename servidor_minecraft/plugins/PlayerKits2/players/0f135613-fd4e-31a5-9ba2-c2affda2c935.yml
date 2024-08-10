@@ -1,0 +1,10 @@
+name: PapichuloJoker
+kits:
+  Starter:
+    cooldown: 1723170340028
+    one_time: true
+    bought: false
+  food:
+    cooldown: 1723175951202
+    one_time: false
+    bought: false

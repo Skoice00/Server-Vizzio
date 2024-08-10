@@ -1,0 +1,27 @@
+Groups:
+  Admin:
+    Permission: nte.admin
+    Prefix: '&c'
+    Suffix: '&f'
+    SortPriority: 1
+  Moderator:
+    Permission: nte.moderator
+    Prefix: '&2'
+    Suffix: '&f'
+    SortPriority: 2
+  TWITCH:
+    Permission: nte.TWITCH
+    Prefix: '&x&c&0&0&b&d&6&lT&x&b&a&0&9&d&e&lW&x&b&5&0&7&e&6&lI&x&a&f&0&4&e&d&lT&x&a&a&0&2&f&5&lC&x&a&4&0&0&f&d&lH
+      &r'
+    Suffix: ''
+    SortPriority: -1
+  VIZZIOSOS:
+    Permission: nte.VIZZIOSOS
+    Prefix: '%luckperms_prefix%'
+    Suffix: ''
+    SortPriority: -1
+  DIOS:
+    Permission: nte.DIOS
+    Prefix: '%luckperms_prefix%'
+    Suffix: ''
+    SortPriority: -1

@@ -1,0 +1,14 @@
+name: loivex
+kits:
+  food:
+    cooldown: 1723174884021
+    one_time: false
+    bought: false
+  diamond:
+    cooldown: 1723147665474
+    one_time: false
+    bought: false
+  Starter:
+    cooldown: 1723108715202
+    one_time: true
+    bought: false
